@@ -1,1 +1,0 @@
-import{_ as e}from"./DlAUqK2U.js";import{v as t,z as o,A as s,ab as a,t as c,B as r}from"./BRS1EPdQ.js";const n={name:"MyButton"},_={class:"btn-wrapper"};function d(p,l,f,i,m,u){return c(),t("div",_,[o(a,{color:"success"},{default:s(()=>[r("Hello world")]),_:1})])}const $=e(n,[["render",d],["__scopeId","data-v-26496feb"]]);export{$ as default};
