@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{v as t,t as s,C as a,D as c,x as r}from"./D3htu90h.js";const n={name:"MyButton"},p=o=>(a("data-v-c907071a"),o=o(),c(),o),_={class:"btn-wrapper"},d=p(()=>r("h1",null,"Work in progress",-1)),i=[d];function f(o,h,l,m,u,x){return s(),t("div",_,i)}const I=e(n,[["render",f],["__scopeId","data-v-c907071a"]]);export{I as default};
