@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{v as o,bL as r,t as s}from"./Cr2osm7I.js";const c={},n={class:"align-center justify-center mx-auto"};function a(e,_){return s(),o("div",n,[r(e.$slots,"default")])}const d=t(c,[["render",a]]);export{d as default};
